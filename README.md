@@ -20,6 +20,8 @@
 </a>
     <a href=""><img align="center" width="100" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> </a>
   </div>
+  
+  ![Snake animation](https://github.com/catalogador/catalogador/blob/output/github.contribution-grid-snake.svg)
 
 </div>
 
