@@ -1,11 +1,6 @@
 
 <div align="center">
 
-  ##
-  ## Prazer! Sou Weslley Francisco!
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalogador&show_icons=true&hide_border=true&bg_color=183034&icon_color=15616d&title_color=15616d&text_color=fae0e4)](https://github.com/anuraghazra/github-readme-stats)
-
   <div>
     <img align="left" height="50" with="50" alt="weslley-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="left" height="50" with="50" alt="weslley-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -21,6 +16,6 @@
     <a href=""><img align="center" width="100" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> </a>
   </div>
   
-
+<h4>Meu Nome é weslley francisco, tenho 21 anos e sou desenvolvedor, atualmente focado em desenvolvimento, tanto Front, quanto GML e Ethical Hacking.<h4>
 </div>
 
