@@ -16,6 +16,6 @@
     <a href=""><img align="center" width="100" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> </a>
   </div>
   
-<h4>Meu Nome é weslley francisco, tenho 21 anos e sou desenvolvedor, atualmente focado em desenvolvimento, tanto Front, quanto GML e Ethical Hacking.<h4>
+<h4>Meu Nome é weslley francisco, tenho 21 anos e sou desenvolvedor, atualmente focado em desenvolvimento, tanto Front, quanto desenvolvimento de jogos.<h4>
 
 </div>
